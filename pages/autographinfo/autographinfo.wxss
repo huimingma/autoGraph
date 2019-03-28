@@ -1,0 +1,7 @@
+image{
+ width:75%;
+ height:95vh;
+ margin-left: 65px;
+ margin-top: 18px;
+ margin-right: 40px;
+}
